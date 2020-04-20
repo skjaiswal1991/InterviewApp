@@ -1,0 +1,12 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+.Collapsible__contentOuter {
+  background: green;
+  padding-left: 13px;
+  margin: 15px -10px -12px -12px;
+}
+.Collapsible {
+  background-color: gray;
+  padding: 12px;
+}

@@ -1,0 +1,7 @@
+{
+  "name": "InterviewApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

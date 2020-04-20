@@ -1,0 +1,39 @@
+{
+    "category":[
+        {
+            "question":"What is a PHP",
+            "catid":1,
+            "answer": "php is hypertext pre proseaser"
+        },
+        {
+            "question":"What is a WordPress",
+            "catid":2,
+            "answer": "WordPress is hypertext pre proseaser"
+        },
+        {
+            "question":"What is a JavaScript",
+            "catid":3,
+            "answer": "JavaScript is hypertext pre proseaser"
+        }],
+            
+    "catimg":[
+        {
+            "img": "https://miro.medium.com/max/512/1*zXu2vsYPZ5mqF0tOB7kupA.png", 
+            "id":1,
+            "name":"React"
+        },
+        {
+            "img": "https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/wordpress-512.png", 
+            "id":2,
+            "name":"Wordpress"
+        },
+        {
+            "img": "https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/wordpress-512.png", 
+            "id":3,
+            "name":"Wordpress"
+        }
+
+       
+    ]
+
+}
